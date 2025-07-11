@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "bb11f0174c2cfcfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a31a3e72323cc62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a31a38285f030fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plants/Flowers/Woolflower ‘Deep Purple’.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Woolflower ‘Deep Purple’"
+            }
+          },
+          {
+            "id": "da07ed73edcb08bb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e683fb42be0dd61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8efeb97e2d97ebe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e96dab4afcb1f4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48703ee478054d6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7665097b095abc7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4cdc00318c0f60b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "11bc6d20b25d114a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd21c2bbd8257d9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "da83029640b31b4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plants/Flowers/Marigold.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Marigold"
+            }
+          },
+          {
+            "id": "ea1b56b83ad28924",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e27f79eb3baa7833",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plants/Flowers/Marigold.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Marigold"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "da07ed73edcb08bb",
+  "lastOpenFiles": [
+    "Plants/Aromatics/Coriander.md",
+    "Plants/Aromatics/Chives.md",
+    "Plants/Aromatics/Basil.md",
+    "Plants/Flowers/Marigold.md",
+    "Plants/Flowers/Woolflower ‘Deep Purple’.md",
+    "Plants/Flowers/Strawflower.md",
+    "Plants/Flowers/Pansy.md",
+    "Plants/Flowers/Nasturnium.md",
+    "Plants/Flowers/Gazanias.md",
+    "Welcome.md",
+    "Notes & Research/Treatments/Neem Oil.md",
+    "Notes & Research/Treatments/Naturen Inseticida Polivalente - Bio Polysect SL.md",
+    "Notes & Research/Treatments/Insecticidal Soap Spray.md",
+    "Notes & Research/Taxonomy/Eudicots.md",
+    "Notes & Research/Soil/Pine bark.md",
+    "Notes & Research/Soil/Indoor plant substrate.md",
+    "Notes & Research/Soil/Germination substrate.md",
+    "Notes & Research/Soil/Expanded clay.md",
+    "Notes & Research/Pollination/Pollinators",
+    "Notes & Research/Pollination/Attractors.md",
+    "Notes & Research/Pests/Thrips.md",
+    "Notes & Research/Diseases/Downy mildew.md",
+    "Notes & Research/Composts/Compost Tea.md",
+    "Notes & Research/Watering.md",
+    "Notes & Research/Treatments",
+    "Notes & Research/Taxonomy",
+    "Notes & Research/Sowing.md",
+    "Notes & Research/Soil",
+    "Notes & Research/Pollination",
+    "Notes & Research/Pests",
+    "Notes & Research/Diseases",
+    "Notes & Research/Composts",
+    "Notes & Research",
+    "Plants/Crops/Romaine Lettuce.md",
+    "Plants/Crops/Piri-Piri Hot Pepper.md",
+    "Plants/Flowers"
+  ]
+}
