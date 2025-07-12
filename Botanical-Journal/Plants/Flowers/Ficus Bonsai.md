@@ -1,3 +1,4 @@
+
 This species is one of the beginner recommended ones due to how much it can handle under-watering and over-watering.
 When bringing one to a new home, let it grow freely for ~1 year.
 - - - 
@@ -9,6 +10,18 @@ During its weakest season, the winter, it is best to try and place him under dir
 Shady locations are not great.
 - - - 
 ## ✂️ [[Pruning]]
+=======
+This species if one of the beginner recommended ones due to how much it can handle under-watering and over-watering.
+When bringing one to a new home, let it grow freely for ~1 year.
+
+## Environment 
+This species makes a great indoor plant due to the fact that it thrives in warm, humid environments and can stand lower light conditions compared to other species.
+However, there are some people that recommend leaving them outdoor under direct sunlight for a few hours a day during the summer to promote growth. It greatly benefits from outdoor exposure in warm weather. 
+Morning or evening sun might be better than mid-day sun to protect the plant.
+
+During its weakest season, the winter, it is best to try and place him under direct sunlight even if that implicates moving it from one room to another.
+Shady locations are not great.
+## Pruning
 Pruning a bonsai is a bit more than just cutting leaves.
 If the goal is to thicken/strengthen the branches, the best is **not** to prune.
 The reason for this is that if there is no intervention, letting them grow *crazy* is the best way to strengthen the branches. After that, it can be pruned in a way that it'll allow the bonsai to throw buds everywhere. Only then can the leaves be cut. Advanced "practitioners" recommend pruning back to 2 leaves after 6-8 leaves have grown. 
